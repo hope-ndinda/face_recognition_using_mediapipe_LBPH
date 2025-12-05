@@ -1,5 +1,4 @@
 # Face Recognition using MediaPipe + LBPH  
-*AI Without ML — Week 13 Assignment*
 
 This project performs real-time face recognition using **MediaPipe for detection** and **LBPH (Local Binary Patterns Histogram)** for classical recognition — no modern deep learning required.
 
