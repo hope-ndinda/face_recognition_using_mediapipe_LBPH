@@ -16,7 +16,7 @@ The system is trained on images captured from a webcam for two subjects:
 
 ✔ Detect faces in real-time using MediaPipe  
 ✔ Train a classical LBPH recognition model  
-✔ Recognize **Hope** & **Dianah** live from webcam  
+✔ Recognize **Hope** & **Benite** live from webcam  
 ✔ Works without deep learning — pure feature-based AI  
 
 ---
