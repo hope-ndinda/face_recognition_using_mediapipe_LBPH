@@ -2,7 +2,7 @@ import cv2
 import os
 import mediapipe as mp
 
-persons = ["Hope", "Benite"]  # Your two people
+persons = ["Hope", "Jolie"]  # Your two people
 output_dir = "dataset"
 num_images = 200  # Images per person
 
